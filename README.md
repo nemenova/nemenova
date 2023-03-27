@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemenova - Victoria Nemenova
-- 👀 I’m interested in science fiction (biology, medicine), like to visit popular science lectures and hoppings. Junior Frontender, looking for interesting projects with cool design. Have 10 years background in marketing and advertising, but fell in love with coding because of opportunity make bright projects by myself.
-- 🌱 I’m currently learning JS, React. Want to learn other frameworks, but focused on React more to know it deeper.
+- 👀 I'm a frontend-developer looking for interesting projects. I have 10 years background in marketing and advertising, but fell in love with coding because of opportunity make breathetaking projects by myself.
+- 🌱 I use JS, React with hooks for 2 years. I can use other frameworks and vanilla.js, but I'm focused on React because of deeper understanding.
 - 📫 How to reach me TG: vikalangor. Also you can write me an e-mail to vikalangor@gmail.com.
 
 <!---
